@@ -1,2 +1,2 @@
 #!/bin/bash
-/action >> $iPATH
+export PATH="/action:$PATH"
